@@ -4,7 +4,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 public class Customer {
-
+//controller
 	private String firstName;
 	
 	@NotNull(message="is required")
